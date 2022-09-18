@@ -1,0 +1,34 @@
+#pirmas-div{
+    box-shadow: 10px 5px 5px #3b1fc7;
+    border: 5x solid rgb(14, 10, 10);
+    background-color: rgb(74, 120, 181);
+    color: white;
+  }
+  
+  #antras-div{
+    box-shadow: 10px 5px 5px red;
+    border: 3px solid rgb(245, 245, 245);
+    background-color: rgb(107, 89, 179);
+    color: red;
+  }
+  
+  #trecias-div{
+    box-shadow: 10px 5px 5px #01ef31;
+    border: 3px solid rgb(216, 210, 34);
+    background-color: rgb(64, 110, 95);
+    color: yellow;
+  }
+  
+  #image_1 {
+    object-fit: fill;
+    width: 300px;
+    height: 150px;
+  }
+  
+  .container{
+    background-image: url("./images/istockphoto-517188688-612x612.jpg");
+    height: 100ch;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: scroll;
+  }
